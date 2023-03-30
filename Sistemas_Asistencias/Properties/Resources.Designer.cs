@@ -63,16 +63,6 @@ namespace Sistemas_Asistencias.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap archivo_de_base_de_datos {
-            get {
-                object obj = ResourceManager.GetObject("archivo-de-base-de-datos", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap base_de_datos_en_la_nube {
             get {
                 object obj = ResourceManager.GetObject("base-de-datos-en-la-nube", resourceCulture);
@@ -96,16 +86,6 @@ namespace Sistemas_Asistencias.Properties {
         internal static System.Drawing.Bitmap estaciones {
             get {
                 object obj = ResourceManager.GetObject("estaciones", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ICONO {
-            get {
-                object obj = ResourceManager.GetObject("ICONO", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
