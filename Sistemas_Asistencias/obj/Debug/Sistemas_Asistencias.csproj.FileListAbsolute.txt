@@ -1,0 +1,11 @@
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\bin\Debug\Sistemas_Asistencias.exe.config
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\bin\Debug\Sistemas_Asistencias.exe
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\bin\Debug\Sistemas_Asistencias.pdb
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.csproj.AssemblyReference.cache
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.csproj.SuggestedBindingRedirects.cache
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.Presentacion.MenuPrincipal.resources
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.Properties.Resources.resources
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.csproj.GenerateResource.cache
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.csproj.CoreCompileInputs.cache
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.exe
+D:\Christopher\Proyectos\C#\Escritorio\Sistema_Asistencia_SQLSERVER_TELERIC\Sistemas_Asistencias\Sistemas_Asistencias\obj\Debug\Sistemas_Asistencias.pdb
